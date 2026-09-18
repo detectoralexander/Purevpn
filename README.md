@@ -215,4 +215,4 @@ PureVPN is available as a full free version for Windows, granting users complete
 Start your journey to safer and unrestricted internet browsing with PureVPN today! Click the download button above to get started.
 
 ---
-**Last updated:** 2026-09-18 08:43:40 UTC
+**Last updated:** 2026-09-18 13:21:51 UTC
